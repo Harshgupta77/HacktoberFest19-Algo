@@ -24,5 +24,5 @@ Register for Hacktoberfest at :link:
 
 A repository for beginners :beginner: to create their first Pull Request. 
 
-All of your suggestions :memo: are welcome!!
+:memo: Open for suggestions!! 
 
