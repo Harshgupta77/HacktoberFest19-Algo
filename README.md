@@ -1,5 +1,7 @@
 # HacktoberFest19-Algo
-Submit any algorithm in any language and add a PR to your Hacktoberfest 2019 profile.
+Submit any algorithm in any language and add a PR :+1: to your Hacktoberfest 2019 profile. Don,t forget to star :star: this repository :sparkling_heart:
+
+See :link: [Contributing guidelines](./CONTRIBUTING.md) for more information.
 
 # Hacktoberfest 2019
 
@@ -13,11 +15,14 @@ Submit any algorithm in any language and add a PR to your Hacktoberfest 2019 pro
 
 # What is Hacktoberfest ?
 
-Hacktoberfest is a month-long celebration of open source software in partnership with Github .
+Hacktoberfest is a month-long :hourglass_flowing_sand: celebration of open source software in partnership with Github .
+Complete 4 or more PR till 31st October to get a special T-shirt :shirt: from DigitalOcean and GitHub.
+Register for Hacktoberfest at :link:
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 # Hacktoberfest-2019 
 
-A repository for beginners to create their first Pull Request. 
+A repository for beginners :beginner: to create their first Pull Request. 
 
-All of your suggestions are welcome!!
+All of your suggestions :memo: are welcome!!
 
