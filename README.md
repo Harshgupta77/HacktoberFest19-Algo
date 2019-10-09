@@ -4,7 +4,7 @@ Submit any algorithm in any language and add a PR to your Hacktoberfest 2019 pro
 # Hacktoberfest 2019
 
 
-![](https://hacktoberfest.digitalocean.com/assets/logo-hf19-full-10f3c000cea930c76acc1dedc516ea7118b95353220869a3051848e45ff1d656.svg)
+ ![](https://hacktoberfest.digitalocean.com/assets/logo-hf19-full-10f3c000cea930c76acc1dedc516ea7118b95353220869a3051848e45ff1d656.svg) 
 
 
 # Contribute
